@@ -13,7 +13,7 @@ sidebar :
 
 
 
-## Delgate는 왜 Weak로 선언할까?
+## Delegate는 왜 Weak로 선언할까?
 
 **기본적으로 class의 instance를 가리키는 각각의 reference는 강함 참조(Strong reference)**
 
